@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62536384714",
+    "project_id": "ownyourpet-736b2",
+    "storage_bucket": "ownyourpet-736b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62536384714:android:981594b805f007c4a3b433",
+        "android_client_info": {
+          "package_name": "com.example.petscare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62536384714-m40d7hf96va6o1pnpg549ved8p46cs8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWE4B1ei9_WSsbwYFPhwVs8cwNN6yke-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62536384714-m40d7hf96va6o1pnpg549ved8p46cs8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
